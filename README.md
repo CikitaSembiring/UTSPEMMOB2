@@ -12,7 +12,7 @@
 
 Aplikasi ini memungkinkan pengguna untuk:
 1.  Memasukkan nama pengguna di halaman *Home*.
-2.  Memilih kategori kuis (PPKN, Biologi, Matematika, Kimia, dan Seni.
+2.  Memilih kategori kuis (PPKN, Biologi, Matematika, Kimia, dan Seni).
 3.  Menjawab 5 pertanyaan pilihan ganda.
 4.  Melihat skor akhir mereka ("Selamat!" atau "Jangan Menyerah!").
 
