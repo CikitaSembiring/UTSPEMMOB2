@@ -16,7 +16,7 @@ Aplikasi ini memungkinkan pengguna untuk:
 3.  Menjawab 5 pertanyaan pilihan ganda.
 4.  Melihat skor akhir mereka ("Selamat!" atau "Jangan Menyerah!").
 
-Aplikasi ini dibangun menggunakan Flutter dan menerapkan semua konsep wajib UTS, termasuk:
+Aplikasi ini dibangun menggunakan Flutter dan menerapkan konsep :
 * Stateless & Stateful Widgets.
 * Navigasi antar halaman (Splash, Home, Kategori, Pertanyaan, Skor).
 * *Reusable Widget* (tombol, kartu kategori, pilihan jawaban).
