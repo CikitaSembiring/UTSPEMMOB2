@@ -49,7 +49,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
-    // Ukuran dinamis (Syarat #6)
+    // Ukuran dinamis
     final screenSize = MediaQuery.of(context).size;
 
     return Scaffold(
