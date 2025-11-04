@@ -8,7 +8,6 @@
 ---
 
 ## Deskripsi Aplikasi
-* **Nama Aplikasi:** **QuiZ**. 
 **QuiZ** adalah aplikasi kuis pilihan ganda yang dibuat untuk memenuhi Ujian Tengah Semester (UTS) Lab Pemrograman Mobile 2.
 
 Aplikasi ini memungkinkan pengguna untuk:
