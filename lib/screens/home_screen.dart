@@ -60,7 +60,7 @@ class _HomeScreenState extends State<HomeScreen> {
         decoration: const BoxDecoration(
           color: Color(0xFF673AB7), // Warna ungu dari mockup
           image: DecorationImage(
-            image: AssetImage("assets/images/question_bg.jpg"), // PASTIKAN .jpg
+            image: AssetImage("assets/images/question_bg.jpg"),
             fit: BoxFit.cover,
             opacity: 0.1,
           ),
@@ -75,7 +75,6 @@ class _HomeScreenState extends State<HomeScreen> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 // Teks "Ayo Tes Pengetahuan Anda"
-                // Sesuai mockup image_f843fe.png
                 Text(
                   'Ayo Tes',
                   style: GoogleFonts.playfairDisplay(
